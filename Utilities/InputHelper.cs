@@ -1,6 +1,4 @@
-﻿using System.Numerics;
-
-namespace Utilities
+﻿namespace Utilities
 {
     public static class InputHelper
     {
